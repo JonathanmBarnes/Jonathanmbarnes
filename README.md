@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Everyone! 
+
+This very much is a work in progress and I've been slacking on uploading projects but hopefully soon this will be filled.
 
 <!--
 **JonathanmBarnes/Jonathanmbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
