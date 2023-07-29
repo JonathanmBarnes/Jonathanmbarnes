@@ -1,15 +1,110 @@
-### Hello Everyone! 
+# Hello Everyone!
 
-I'm Jonathan 😄 
+### I'm Jonathan 😄
 
-Currently I am finishing my senior year at the University of St. Thomas in Minnesota. I will graduate with a B.S. in data analytics specializing in biology, I will also have a minor in applied statistics. I'm hoping to go to graduate school right after graduation to get a MPH. 
+## About me
 
-I primarily program using R or Python with the majority of my undergrad focused in R however I'm comfortable with both and many packages in either. I've also dabbled with AutoHotKey, Powershell, Java, HTML + CSS, and bash/zsh.  
+I am a recent graduate from the *University of St. Thomas* in Minnesota where I majored in data analytics with minors in biology and applied statistics. Currently I'm a graduate student at the *University of Minnesota's School of Public Health* where I am studying Public Health Data Science.
 
-This very much is a work in progress and I've been slacking on uploading projects but hopefully soon this will be filled. You can find my linkedin to the left, and eventually I will get around to finishing a notion page where I'd have less code and more about the things I do outside of computers and data. 
+For a little over the past 2 years I've been working full time at St. Thomas within Innovation and Technology Services (ITS) at the Tech Desk as a student worker. In Summer of 2022 my job title was updated to intern in order to reflect my role and additional responsibilities I had already taken on within the entire service delivery team, separate of the normal expectations of tech desk students or senior students which I was previously considered. For the last year I primarily was able to work on projects aimed at improving function and information accessibility for the Tech Desk and students on campus (most of which not here) in addition to my largest work project, a python application called Tech Desk Tools which can be see in its repo. In spring 2023 I was the recipient of the ITS Student of the year award for the 2022-2023 school year. Following the end of my work eligibility in August I am leaving to start my masters program at the University of Minnesota.
 
-The project I'm working on at the moment is with NHANES data from the CDC. I've combined the previous 10 years or so of data to examine trends in micronutrients overtime and in groups. I'm going to use this information to push research into obesity and hope to see biologically why we continue to see an upward trend despite a stagnation in calorie intake.  
+Assuming everything goes properly, I will get to have commencement on my birthday in 2025, which would make up for all the finals, including my last one, I've had on it during the past 4 years 😂
 
+## Coding Experiences
+
+I prefer python for my personal work and R for analytics and academics. This is mainly due to expanded options python provides outside of just analytics although I am comfortable with coding in either language. A list of libraries or packages can be found below in terms of what I've used or am learning. I should also add that I've used and know the fundamentals of AutoHotKey, Powershell, and HTML from my work and projects completed during my time at ITS. I am also becoming more comfortable with bash and Zsh since I primarily use OSX and have a small linux server for long winded tasks that can take time to run, such as scraping or timed data collection.
+
+# Known Libraries and Packages
+
+### Libraries and Packages I'd be comfortable teaching someone else
+
+-    R
+
+    -   TidyVerse
+
+        -   ggplot, readr, dplyr, tidyr
+
+    -   Haven
+
+    -   Lavaan
+
+    -   Corrplot
+
+-   Python
+
+    -   Pandas
+
+    -   NumPy
+
+    -   OS
+
+    -   PyAutoGui
+
+    -   Subprocess
+
+    -   matplotlib
+
+### Libraries I've used before but maybe not extensively or may not fully understand them
+
+-   Mosaic
+
+-   moments
+
+-   TidySem
+
+-   psych
+
+-   forcats
+
+-   tibble
+
+-   purrr
+
+-   stringr
+
+-   FactoMineR
+
+-   plotly
+
+-   survival
+
+-   shiny
+
+-   data.table
+
+-   caret
+
+### Libraries and Packages I'm teaching myself
+
+-   Rayshader
+
+-   PyTorch
+
+-   BS4/Scrapy/Selenium
+
+-   SciPy
+
+-   Scikit-learn
+
+-   seaborn
+
+-   Polars
+
+-   XGBoost/mboost
+
+-   mlr3
+
+-   e1071
+
+-   DataExplorer
+
+-   KernLab
+
+-   randomForest
+
+This Page is still very much a work in progress but offers some eyes into what I'm working on or have done for classes in the past. For additional information please visit my linkedin to the left.
+
+```{=html}
 <!--
 **JonathanmBarnes/Jonathanmbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +119,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
