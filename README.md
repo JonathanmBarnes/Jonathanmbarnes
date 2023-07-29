@@ -18,11 +18,9 @@ I prefer python for my personal work and R for analytics and academics. This is 
 
 ### Libraries and Packages I'd be comfortable teaching someone else
 
--    R
+-   R
 
-    -   TidyVerse
-
-        -   ggplot, readr, dplyr, tidyr
+    -   TidyVerse (ggplot, readr, dplyr, tidyr)
 
     -   Haven
 
@@ -33,90 +31,43 @@ I prefer python for my personal work and R for analytics and academics. This is 
 -   Python
 
     -   Pandas
-
     -   NumPy
-
     -   OS
-
     -   PyAutoGui
-
     -   Subprocess
-
     -   matplotlib
 
 ### Libraries I've used before but maybe not extensively or may not fully understand them
 
 -   Mosaic
-
 -   moments
-
 -   TidySem
-
 -   psych
-
 -   forcats
-
 -   tibble
-
 -   purrr
-
 -   stringr
-
 -   FactoMineR
-
 -   plotly
-
 -   survival
-
 -   shiny
-
 -   data.table
-
 -   caret
 
 ### Libraries and Packages I'm teaching myself
 
 -   Rayshader
-
 -   PyTorch
-
 -   BS4/Scrapy/Selenium
-
 -   SciPy
-
 -   Scikit-learn
-
 -   seaborn
-
 -   Polars
-
 -   XGBoost/mboost
-
 -   mlr3
-
 -   e1071
-
 -   DataExplorer
-
 -   KernLab
-
 -   randomForest
 
 This Page is still very much a work in progress but offers some eyes into what I'm working on or have done for classes in the past. For additional information please visit my linkedin to the left.
-
-```{=html}
-<!--
-**JonathanmBarnes/Jonathanmbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```
