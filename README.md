@@ -4,11 +4,15 @@
 
 ## About me
 
-I am a recent graduate from the *University of St. Thomas* in Minnesota where I majored in data analytics with minors in biology and applied statistics. Currently I'm a graduate student at the *University of Minnesota's School of Public Health* where I am studying Public Health Data Science.
+I am a recent graduate from the *University of St. Thomas* in Minnesota where I majored in data analytics with minors in biology and applied statistics. Currently I'm a graduate student at the *University of Minnesota's School of Public Health* where I am studying Public Health Data Science. I am a native of Minnesota and extremely proud to be from here, although though if you look at my picture you can see I am quite Scandinavian.
 
-For a little over the past 2 years I've been working full time at St. Thomas within Innovation and Technology Services (ITS) at the Tech Desk as a student worker. In Summer of 2022 my job title was updated to intern in order to reflect my role and additional responsibilities I had already taken on within the entire service delivery team, separate of the normal expectations of tech desk students or senior students which I was previously considered. For the last year I primarily was able to work on projects aimed at improving function and information accessibility for the Tech Desk and students on campus (most of which not here) in addition to my largest work project, a python application called Tech Desk Tools which can be see in its repo. In spring 2023 I was the recipient of the ITS Student of the year award for the 2022-2023 school year. Following the end of my work eligibility in August I am leaving to start my masters program at the University of Minnesota.
+For a little over the past 2 years I've been working full time at St. Thomas within Innovation and Technology Services (ITS) at the Tech Desk as a student worker. In Summer of 2022 my job title was updated to intern in order to reflect my role and additional responsibilities I had already taken on within the entire service delivery team, separate of the normal expectations of tech desk students or senior students which I was previously considered. For the last year I primarily was able to work on projects aimed at improving function and information accessibility for the Tech Desk and students on campus (most of which not here) in addition to my largest work project, a python application called Tech Desk Tools which can be see in its repo. In spring 2023 I was the recipient of the ITS Student of the year award for the 2022-2023 school year. Following the end of my work eligibility at UST in August I am leaving to start my masters program at the University of Minnesota.
 
 Assuming everything goes properly, I will get to have commencement on my birthday in 2025, which would make up for all the finals, including my last one, I've had on it during the past 4 years 😂
+
+## What I do for fun
+
+I spent much of my time in undergrad working or completing school work which left little time for hobbies. When I do get to enjoy myself though I like to spend it cooking or baking, recently I've been obsessed with fried eggs. I also love working out, lifting weights, or playing sports when I can, I even some how was able to play club ultimate Frisbee. Sometimes just like to lay on the floor and do nothing, getting much needed floor time.
 
 ## Coding Experiences
 
