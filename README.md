@@ -1,4 +1,4 @@
-<img src="images/ReadmeTest_1.gif" loop="false">
+<img src="images/readme.gif" loop="false">
 
 # Welcome to my Github
 
